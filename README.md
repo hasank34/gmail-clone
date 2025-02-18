@@ -22,37 +22,5 @@ The Gmail Clone App allows users to manage their emails with features like sendi
 - Toastify (for notifications)
 - LocalStorage (to store email data locally)
 
-## Development
 
-To develop the project, follow these steps:
 
-1. Clone the repository:
-
-   ```bash
-   https://github.com/emreertugrl/gmail_clone.git
-
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd gmail_clone
-   ```
-
-3. Open index.html in your browser to see the application in action.
-
-## Visual
-
-<img src="/images/gmail.gif" alt="gmail-app-gif">
-
-## Live Demo
-
-<a href="https://gmailcloneappp.netlify.app/">Netlify Project View</a>
-
-## Contact
-
-For any questions or suggestions, feel free to reach out:
-
-- Email: emreertugrl7@gmail.com
-- LinkedIn: [emreertugrul7](https://www.linkedin.com/in/emreertugrul7/)
-# gmail-clone
